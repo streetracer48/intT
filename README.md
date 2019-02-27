@@ -2,7 +2,7 @@
 
 To Run this task locally follow blew instructions 
 
-1.git clone the source code 
+1.git clone the source code <br/>
 2.then use in root folder command yarn install or npm install
 3.then give a command yarn run server /or npm run server 
 4. if you want to run client side then go client dic cd /client then use command yarn install or npm install 
